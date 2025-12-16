@@ -1,64 +1,99 @@
-# Olá 👋, eu sou o Henrique Santos Silva
+Hello 👋, I'm Henrique Santos Silva
 
-### **Prompt Engineer | AI Systems Designer**
+Prompt Engineer | AI Systems Designer
 
-**17 anos. Foco em arquitetura de IA, não em código.**
+17 years old. Focused on AI architecture, not just code.
 
----
 
-## 🚀 O que eu faço
 
-Eu sou um **Prompt Engineer** focado em transformar ideias complexas de IA em **sistemas de produção confiáveis**. Minha expertise está em aplicar princípios de Engenharia de Software ao design de prompts, garantindo:
 
-- **Confiabilidade:** Uso de estratégias como Structured Chain-of-Thought (S-CoT) para reduzir alucinações.
-- **Manutenibilidade:** Trato prompts como ativos de software versionados (Prompt as Code).
-- **Integração:** Design de output em JSON Schema para integração perfeita com backends (TypeScript/Python).
+🚀 What I Do
 
-## 🎓 Minhas Credenciais (Credibilidade Técnica)
+I am a Prompt Engineer focused on turning complex AI ideas into reliable, production-ready systems. My expertise lies in applying Software Engineering principles to prompt design, ensuring:
 
-Apesar da minha idade, invisto em educação de nível mundial para garantir que meus projetos sejam construídos sobre bases sólidas.
+•
+Reliability: Using strategies like Structured Chain-of-Thought (S-CoT) to minimize hallucinations.
 
-| Instituição | Curso/Área | Foco Estratégico |
-| :--- | :--- | :--- |
-| **Harvard University** | CS50: Introduction to Computer Science | Fundamentos de Algoritmos e Estruturas de Dados |
-| **Stanford University** | Cyber Security | 
-| **Google** | Certificações em TI e Cybersecurity | Segurança, Infraestrutura e Operações |
-| **University of Helsinki** | Elements of AI | Ética, Implicações e Fundamentos de IA |
+•
+Maintainability: Treating prompts as versioned software assets (Prompt as Code).
 
-## 🛠️ Tech Stack & Ferramentas
+•
+Integration: Designing JSON Schema output for seamless backend integration (TypeScript/Python).
 
-Minha abordagem é agnóstica à linguagem, focada na solução do problema.
+🎓 My Credentials (Technical Credibility)
 
-- **Linguagens:** TypeScript, Python, JavaScript
-- **Backend:** Node.js (Express), APIs de IA (OpenAI, Gemini)
-- **Metodologia:** Prompt Engineering, System Design, Arquitetura de Software
+Despite my age, I invest in world-class education to ensure my projects are built on a solid foundation.
 
-## 🏆 Project Anchor (Destaque Principal)
+Institution
+Course/Area
+Strategic Focus
+Harvard University
+CS50: Introduction to Computer Science
+Fundamentals of Algorithms and Data Structures
+Stanford University
+Machine Learning (ML)
+Theory and Application of AI Models
+Google
+IT and Cybersecurity Certifications
+Security, Infrastructure, and Operations
+University of Helsinki
+Elements of AI
+Ethics, Implications, and AI Fundamentals
 
-Meu projeto flagship demonstra minha capacidade de construir soluções de IA de ponta a ponta.
 
-### **[Resume Insight](https://github.com/henriqueai/resume-insight )**
-> **ATS-style resume analyzer built with production-grade Prompt Engineering architecture.**
->
-> **Destaque:** Este projeto é um estudo de caso de como tratar prompts como ativos de software versionados, utilizando a estratégia **Structured Chain-of-Thought (S-CoT)** para garantir resultados de análise precisos e confiáveis.
+🛠️ Tech Stack & Tools
 
-## 💡 Meu Diferencial (Por que me contratar)
+My approach is language-agnostic, focused on solving the problem.
 
-Minha paixão por construir sistemas de IA e minha base acadêmica me permitem ser **mais ativo e, em muitos casos, mais capacitado do que profissionais Plenos ou Sêniores** focados apenas em código legado.
+•
+Languages: TypeScript, Python, JavaScript
 
-Eu trago:
-- **Visão de Produto:** Foco em resolver o problema do usuário final.
-- **Inovação Constante:** Adaptação rápida às novas tecnologias de IA.
-- **Foco em Arquitetura:** Construção de sistemas escaláveis e manuteníveis.
+•
+Backend: Node.js (Express), AI APIs (OpenAI, Gemini)
 
----
+•
+Methodology: Prompt Engineering, System Design, Software Architecture
 
-## 🌐 Conecte-se
+🏆 Project Anchor (Flagship Project)
 
-- **Portfólio:** [https://henriquesilva.framer.website/]
-- **LinkedIn:** [https://www.linkedin.com/in/henriquesantos-br/]
-- **Email:** [henriquesantos28102008@gmail.com]
+My flagship project demonstrates my ability to build end-to-end AI solutions.
 
----
+Resume Insight
 
-**⭐ Se você está procurando um Prompt Engineer que pensa como Arquiteto de Sistemas, você me encontrou.**
+
+ATS-style resume analyzer built with production-grade Prompt Engineering architecture.Highlight: This project is a case study on treating prompts as versioned software assets, utilizing the Structured Chain-of-Thought (S-CoT) strategy to ensure accurate and reliable analysis results.
+
+💡 My Edge (Why Hire Me)
+
+My passion for building AI systems and my academic foundation allow me to be more active and, in many cases, more capable than many Mid or Senior-level professionals focused solely on legacy code.
+
+I bring:
+
+•
+Product Vision: Focus on solving the end-user's problem.
+
+•
+Constant Innovation: Rapid adaptation to new AI technologies.
+
+•
+Architectural Focus: Building scalable and maintainable systems.
+
+
+
+
+🌐 Connect
+
+•
+Portfolio: [https://henriquesilva.framer.website/]
+
+•
+LinkedIn: [https://www.linkedin.com/in/henriquesantos-br/]
+
+•
+Email: [henriquesantos28102008@gmail.com]
+
+
+
+
+⭐ If you are looking for a Prompt Engineer who thinks like a Systems Architect, you've found me.
+
