@@ -21,7 +21,7 @@ Despite my age, I invest in world-class education to ensure my projects are buil
 | Institution | Course/Area | Strategic Focus |
 | :--- | :--- | :--- |
 | **Harvard University** | CS50: Introduction to Computer Science | Fundamentals of Algorithms and Data Structures |
-| **Stanford University** | Machine Learning (ML) | Theory and Application of AI Models |
+| **Stanford University** | Cybersecurity 
 | **Google** | IT and Cybersecurity Certifications | Security, Infrastructure, and Operations |
 | **University of Helsinki** | Elements of AI | Ethics, Implications, and AI Fundamentals |
 
