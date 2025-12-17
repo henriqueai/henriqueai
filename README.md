@@ -62,3 +62,29 @@ I bring:
 ---
 
 **⭐ If you are looking for a Prompt Engineer who thinks like a Systems Architect, you've found me.**
+
+## 🗺️ My Strategic Roadmap (Next 12 Months)
+
+My goal is to transition from a highly skilled Prompt Engineer to a **Certified AI Systems Architect** with production experience. This roadmap focuses on closing the gap between advanced prompt design and scalable cloud deployment.
+
+| Phase | Focus Area | Key Deliverable | Strategic Goal |
+| :--- | :--- | :--- | :--- |
+| **Phase 1 (0-6 Months)** | **Cloud & Integration** | **Project Anchor 2.0 (RAG System)** | Validate ability to build scalable, data-aware AI solutions on the cloud. |
+| **Phase 2 (6-12 Months)** | **Production & Reliability** | **Project Anchor 3.0 (Prompt A/B Testing)** | Prove mastery over the AI asset lifecycle (Prompt as Code) and system optimization. |
+
+### **Phase 1 Detail: Cloud & Integration**
+
+| Skill/Certification | Target | Project Application |
+| :--- | :--- | :--- |
+| **Cloud Fundamentals** | **AWS Certified Cloud Practitioner** | Deploy Project Anchor 2.0 using Serverless functions (AWS Lambda). |
+| **Data-Aware AI** | **Retrieval-Augmented Generation (RAG)** | Build a system that uses prompts to query and summarize external data sources. |
+| **API Design** | **JSON Schema Validation (Zod/Pydantic)** | Ensure the API for Project Anchor 2.0 is fully type-safe and robust. |
+
+### **Phase 2 Detail: Production & Reliability**
+
+| Skill/Certification | Target | Project Application |
+| :--- | :--- | :--- |
+| **MLOps/Version Control** | **DVC (Data Version Control)** | Version control all prompts and test datasets for Project Anchor 3.0. |
+| **System Optimization** | **Prompt A/B Testing Framework** | Implement a system to measure and compare the performance of different prompt strategies in a simulated production environment. |
+| **Security** | **Prompt Injection Mitigation** | Implement security layers against adversarial attacks on the LLM. |
+
